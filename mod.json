@@ -1,0 +1,11 @@
+{
+  "folium": 1,
+  "id": "halo-pixelbar-sync",
+  "name": "花再 Halo PixelBar 歌词同步",
+  "version": "1.0.0",
+  "author": "kakahalafu",
+  "description": "把 Folia 正在播放的歌曲与歌词通过 USB HID 实时同步到花再 Halo PixelBar 像素屏。",
+  "main": "index.cjs",
+  "preview": "preview.png",
+  "permissions": ["runtime.playback"]
+}
